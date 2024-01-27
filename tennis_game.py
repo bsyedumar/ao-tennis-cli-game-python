@@ -1,5 +1,4 @@
 import random
-
 class TennisGame:
     def __init__(self):
         self.ball_position = (0, 0)  # (x, y) are the position of the ball on the court
