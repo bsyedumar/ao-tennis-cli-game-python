@@ -2,6 +2,8 @@
 
 Welcome to the <b> OATennis CLI Game</b>, a Python-based command-line interface game that simulates a tennis match between you and an AI opponent, based on Men's single rules from the Australian Open. The game follows realistic tennis rules, including scoring, deuce, advantage, tiebreaks, and shot selection. Experience the thrill of tennis with intuitive gameplay, on your command line, playing against the likes of <b> Novak Djokovic, Carlos Alcaraz, Jannik Sinner, Daniil Medvedev</b>, and other top tennis star players.
 
+![oatennis_cli_game_python](https://github.com/bsyedumar/ao-tennis-cli-game-python/assets/54539776/e61af1fb-2de4-478f-b742-f42e1bc9733f)
+
 ## How to Play
 
 * Start the Game: Enter your first and last name to create your player profile.
